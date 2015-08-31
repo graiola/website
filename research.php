@@ -46,14 +46,14 @@
 				<p>
 				These innovations provide a novel and intuitive interface for joint human-robot completion of tasks, which improves the ergonomy and safety for the human operator, and enhances the manipulation capabilities of the robot.
 				</p>
-				<br>
+				<!--<br>
 				<p>
 				My PhD is a collaboration funded by <a href="http://www.digiteo.fr">DIGITEO</a>, and involves different research institute: 
 				
 				<p style="margin: 0 0 0 225px"><img src="img/logos.png" alt="image" style="display: block; text-align: center;" width="125px"/></p>
 
 				I am supervised by Prof. Freek Stulp (ENSTA-ParisTech), Dr. Xavier Lamy (CEA-List), Prof. Pedro Rodriguez Ayerbe (Supelec) and Prof. Sami Tliba (Supelec) 
-				</p>
+				</p>-->
 				<!-- END CONTENT -->
 
 			</div>
