@@ -42,7 +42,7 @@
 
 				<li>
 				Gennaro Raiola, Pedro Rodriguez-Ayerbe, Xavier Lamy, Sami Tliba, and Freek Stulp. Parallel Guiding Virtual Fixtures: Control
-				and Stability. In <i>IEEE Multi-Conference on Systems and Contro (MSC)</i>, 2015.<br>
+				and Stability. In <i>IEEE Multi-Conference on Systems and Control (MSC)</i>, 2015.<br>
 				<a href="raiola15parallel.bib">
 				BibTeX
 				</a>&nbsp;&nbsp;&nbsp;
