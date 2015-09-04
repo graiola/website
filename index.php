@@ -44,6 +44,7 @@
 				<li>2006-2010 : Bachelor's Degree in Computer Engineering at University of Naples "Federico II" </li>
 				</ul>
 				</p>
+				<p><h4><a href="./pdfs/CV_Gennaro-Raiola.pdf" title="CV_Gennaro-Raiola">Click here for the CV</a></h4></p>
 				<!-- END CONTENT -->
 
 			</div>

@@ -41,7 +41,7 @@
 				</p>
 				<p><ol>
 				<li> realizing <b>active virtual guides</b>, which are able to smoothly change from a guidance mode, where it supports the human, to an autonomous mode, where the robot completes the task by itself. </li> 
-				<li>  using one coherent <b>probability framework</b>, based on Gaussian mixture models (GMM),to perform the acquisition and the recognition of the virtual guides. </li>
+				<li>  using one coherent <b>probability framework</b>, based on Gaussian mixture models (GMM), to perform the acquisition and the recognition of the virtual guides. </li>
 				</ol></p>
 				<p>
 				These innovations provide a novel and intuitive interface for joint human-robot completion of tasks, which improves the ergonomy and safety for the human operator, and enhances the manipulation capabilities of the robot.
