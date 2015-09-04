@@ -55,7 +55,7 @@
 				<a href="raiola15comanipulation.bib">
 				BibTeX
 				</a>&nbsp;&nbsp;&nbsp;
-				Download: <a href="./pdfs/stulp14simultaneous.pdf">[pdf]</a>
+				Download: <a href="./publications/stulp14simultaneous.pdf">[pdf]</a>
 				</li>
 				
 				<li>
@@ -64,7 +64,7 @@
 				<a href="raiola15comanipulation.bib">
 				BibTeX
 				</a>&nbsp;&nbsp;&nbsp;
-				Download: <a href="./pdfs/stulp13learning.pdf">[pdf]</a>
+				Download: <a href="./publications/stulp13learning.pdf">[pdf]</a>
 				</li>
 				
 				<ul>
