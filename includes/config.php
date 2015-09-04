@@ -4,9 +4,9 @@
 function echoSelectedRoot()
 {
     $current_file_name = basename($_SERVER['REQUEST_URI'], ".php");
-    $site_root = basename($GLOBALS['SITE_ROOT'], ".php");
+    #$site_root = basename($GLOBAL['SITE_ROOT'], ".php");
     
-    if ($current_file_name == $site_root)
+    if ($current_file_name == '')
         echo 'class="selected"'; 
 }
 ?>
