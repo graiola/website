@@ -32,7 +32,7 @@
 				<ul>
 				
 				<li>
-				Gennaro Raiola, Xavier Lamy, and Freek Stulp. Co-manipulation with Multiple Probabilistic Virtual Guides. In <i>International
+				<b>Gennaro Raiola</b>, Xavier Lamy, and Freek Stulp. Co-manipulation with Multiple Probabilistic Virtual Guides. In <i>International
 				Conference on Intelligent Robots and Systems (IROS)</i>, 2015.<br>
 				<a href="raiola15comanipulation.bib">
 				BibTeX
@@ -41,7 +41,7 @@
 				</li>
 
 				<li>
-				Gennaro Raiola, Pedro Rodriguez-Ayerbe, Xavier Lamy, Sami Tliba, and Freek Stulp. Parallel Guiding Virtual Fixtures: Control
+				<b>Gennaro Raiola</b>, Pedro Rodriguez-Ayerbe, Xavier Lamy, Sami Tliba, and Freek Stulp. Parallel Guiding Virtual Fixtures: Control
 				and Stability. In <i>IEEE Multi-Conference on Systems and Control (MSC)</i>, 2015.<br>
 				<a href="raiola15parallel.bib">
 				BibTeX
@@ -50,7 +50,7 @@
 				</li>
 				
 				<li>
-				Freek Stulp, Laura Herlant, Antoine Hoarau, and Gennaro Raiola. Simultaneous On-line Discovery and Improvement of Robotic
+				Freek Stulp, Laura Herlant, Antoine Hoarau, and <b>Gennaro Raiola</b>. Simultaneous On-line Discovery and Improvement of Robotic
 				Skill Options. In <i>International Conference on Intelligent Robots and Systems (IROS)</i>, 2014.<br>
 				<a href="raiola15comanipulation.bib">
 				BibTeX
@@ -59,7 +59,7 @@
 				</li>
 				
 				<li>
-				Freek Stulp, Gennaro Raiola, Antoine Hoarau, Serena Ivaldi, and Olivier Sigaud. Learning Compact Parameterized Skills with
+				Freek Stulp, <b>Gennaro Raiola</b>, Antoine Hoarau, Serena Ivaldi, and Olivier Sigaud. Learning Compact Parameterized Skills with
 				a Single Regression. In <i>IEEE-RAS International Conference on Humanoid Robots</i>, 2013.<br>
 				<a href="raiola15comanipulation.bib">
 				BibTeX
