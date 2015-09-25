@@ -4,9 +4,7 @@
 function echoSelectedRoot()
 {
     $current_file_name = basename($_SERVER['REQUEST_URI'], ".php");
-    #$site_root = basename($GLOBAL['SITE_ROOT'], ".php");
-    
-    if ($current_file_name == '')
+    if ($current_file_name == '~raiola') #Hard fix for the ensta server
         echo 'class="selected"'; 
 }
 ?>
