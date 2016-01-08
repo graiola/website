@@ -34,19 +34,20 @@
 				<li>
 				<b>Gennaro Raiola</b>, Xavier Lamy, and Freek Stulp. Co-manipulation with Multiple Probabilistic Virtual Guides. In <i>International
 				Conference on Intelligent Robots and Systems (IROS)</i>, 2015.<br>
-				<a href="raiola15comanipulation.bib">
+				<a href="https://hal-cea.archives-ouvertes.fr/hal-01170974v1/bibtex">
 				BibTeX
 				</a>&nbsp;&nbsp;&nbsp;
-				Download: (unavailable)
+				Download: <a href="https://hal-cea.archives-ouvertes.fr/hal-01170974/document">[pdf]</a>
+				
 				</li>
 
 				<li>
 				<b>Gennaro Raiola</b>, Pedro Rodriguez-Ayerbe, Xavier Lamy, Sami Tliba, and Freek Stulp. Parallel Guiding Virtual Fixtures: Control
 				and Stability. In <i>IEEE Multi-Conference on Systems and Control (MSC)</i>, 2015.<br>
-				<a href="raiola15parallel.bib">
+				<a href="https://hal-cea.archives-ouvertes.fr/hal-01250101v1/bibtex">
 				BibTeX
 				</a>&nbsp;&nbsp;&nbsp;
-				Download: (unavailable)
+				Download: <a href="https://hal-cea.archives-ouvertes.fr/hal-01250101/document">[pdf]</a>
 				</li>
 				
 				<li>
