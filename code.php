@@ -27,11 +27,12 @@
 			<div class="content">
 	
 				<!-- CONTENT -->
-				<p>Part of the code developed during my PhD is available on my personal <a href="https://github.com/graiola/virtual-fixtures" title="graiola_git">github</a> repository (Warning! it's still a work in progress as my PhD :)</p>
+				<p>Part of the code developed during my PhD is available on my personal <a href="https://github.com/graiola/virtual-fixtures" title="graiola_git">github</a> repository.</p>
 				<br>
 				<p><ul> I worked also on other projects, such as:</p>
 				<br>
 				<li> Integrating <a href="https://github.com/graiola/m3ros_control" title="ros_control_git">ros control</a> on the meka robot. </li>
+				<li> Updating the <a href="https://github.com/graiola/mekabot" title="mekabot_git">M3</a> software for the control of the meka robot. </li>
 				<li> Full body motion control of the reem-h and reem-c robots at PAL Robotics, using the <a href="https://github.com/stack-of-tasks" title="sot_git">stack of tasks</a> kinematics solver. </li>
 				<li> I contribuited to <a href="https://github.com/stulp/dmpbbo" title="dmpbbo_git">dmpbbo</a>, an open source projects that provides an implementation for motion primitives and black-box optimization. </li>
 				</ul>
